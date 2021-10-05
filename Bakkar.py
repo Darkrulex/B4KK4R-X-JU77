@@ -1,6 +1,6 @@
 ##!/usr/bin/python2
 # -*- coding: UTF-8 -*-.
-# Created on March 07 2021
+# Created on October 05 2021
 # Boy RAUF
 
 import os, sys, time, datetime, re, threading, json, random, requests, hashlib, cookielib, uuid
