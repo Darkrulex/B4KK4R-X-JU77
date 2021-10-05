@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8
-# Facebook  : ALI KH AN JAN
-# Instagram : Alikhanjan38
+# Facebook  : @Raufonfire
+# Instagram : Raufjutt007
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize,uuid
 from multiprocessing.pool import ThreadPool
@@ -36,7 +36,7 @@ def jalan(z):
 		time.sleep(0.05)
 		
 def banner():
-    os.system('echo -e "             _______      ________  ___  _______ __\n            / __/ _ )____/ ___/ _ \/ _ |/ ___/ //_/\n           / _// _  /___/ /__/ , _/ __ / /__/ ,< \n          /_/ /____/    \___/_/|_/_/ |_\___/_/|_|\n\n               Coded By : Asad X kriss\n─────────────────────────────────────────────────────────────" | lolcat')
+    os.system('echo -e "             _______      ________  ___  _______ __\n            / __/ _ )____/ ___/ _ \/ _ |/ ___/ //_/\n           / _// _  /___/ /__/ , _/ __ / /__/ ,< \n          /_/ /____/    \___/_/|_/_/ |_\___/_/|_|\n\n               Coded By : 𝐁𝐀𝐊𝐊𝐀𝐑 𝐗 𝐑𝐀𝐔𝐅\n─────────────────────────────────────────────────────────────" | lolcat')
 
 idmem = []
 idfriend = []
